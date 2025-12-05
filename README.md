@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firstmars&label=Profile%20views&color=0e75b6&style=flat" alt="firstmars" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firstmars" alt="firstmars01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firstmars" alt="firstmars" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
